@@ -1,0 +1,16 @@
+{
+  "name": "Racing Game",
+  "confidence": 0.85,
+  "actions": {
+    "fist":        {"type": "hold",  "key": "up"},
+    "open_palm":   {"type": "hold",  "key": "down"},
+    "point":       {"type": "tap",   "key": "space"},
+    "swipe_left":  {"type": "tap",   "key": "left"},
+    "swipe_right": {"type": "tap",   "key": "right"}
+  },
+  "voice": {
+    "boost": {"type": "tap", "key": "shift"},
+    "reset": {"type": "tap", "key": "r"},
+    "pause": {"type": "tap", "key": "esc"}
+  }
+}

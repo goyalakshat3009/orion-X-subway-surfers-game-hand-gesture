@@ -1,0 +1,18 @@
+{
+  "name": "FPS Shooter",
+  "confidence": 0.85,
+  "actions": {
+    "fist":        {"type": "hold",  "key": "w"},
+    "open_palm":   {"type": "hold",  "key": "s"},
+    "point":       {"type": "click", "button": "left"},
+    "swipe_left":  {"type": "tap",   "key": "a"},
+    "swipe_right": {"type": "tap",   "key": "d"}
+  },
+  "voice": {
+    "jump":    {"type": "tap",   "key": "space"},
+    "reload":  {"type": "tap",   "key": "r"},
+    "grenade": {"type": "tap",   "key": "g"},
+    "crouch":  {"type": "tap",   "key": "ctrl"},
+    "pause":   {"type": "tap",   "key": "esc"}
+  }
+}

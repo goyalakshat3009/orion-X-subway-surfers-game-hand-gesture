@@ -1,0 +1,19 @@
+{
+  "name": "Notepad Test",
+  "confidence": 0.8,
+  "actions": {
+    "fist":        {"type": "tap", "key": "f"},
+    "open_palm":   {"type": "tap", "key": "o"},
+    "point":       {"type": "tap", "key": "p"},
+    "swipe_left":  {"type": "tap", "key": "a"},
+    "swipe_right": {"type": "tap", "key": "d"}
+  },
+  "voice": {
+    "jump":  {"type": "tap", "key": "1"},
+    "roll":  {"type": "tap", "key": "2"},
+    "left":  {"type": "tap", "key": "3"},
+    "right": {"type": "tap", "key": "4"},
+    "board": {"type": "tap", "key": "5"},
+    "pause": {"type": "tap", "key": "6"}
+  }
+}

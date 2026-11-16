@@ -1,0 +1,48 @@
+{
+  "name": "Subway Surfers",
+  "confidence": 0.8,
+  "actions": {
+    "swipe_left": {
+      "type": "tap",
+      "key": "left"
+    },
+    "swipe_right": {
+      "type": "tap",
+      "key": "right"
+    },
+    "point": {
+      "type": "tap",
+      "key": "up"
+    },
+    "fist": {
+      "type": "tap",
+      "key": "down"
+    }
+  },
+  "voice": {
+    "jump": {
+      "type": "tap",
+      "key": "up"
+    },
+    "roll": {
+      "type": "tap",
+      "key": "down"
+    },
+    "left": {
+      "type": "tap",
+      "key": "left"
+    },
+    "right": {
+      "type": "tap",
+      "key": "right"
+    },
+    "board": {
+      "type": "tap",
+      "key": "space"
+    },
+    "pause": {
+      "type": "tap",
+      "key": "esc"
+    }
+  }
+}

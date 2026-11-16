@@ -1,0 +1,14 @@
+{
+  "name": "Subway Surfers (voice only)",
+  "actions": {},
+  "voice": {
+    "left":  {"type": "tap", "key": "left"},
+    "right": {"type": "tap", "key": "right"},
+    "up":    {"type": "tap", "key": "up"},
+    "down":  {"type": "tap", "key": "down"},
+    "jump":  {"type": "tap", "key": "up"},
+    "roll":  {"type": "tap", "key": "down"},
+    "board": {"type": "tap", "key": "space"},
+    "pause": {"type": "tap", "key": "esc"}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Generic Game",
+  "actions": {
+    "fist":        {"type": "hold",  "key": "w"},
+    "open_palm":   {"type": "hold",  "key": "s"},
+    "point":       {"type": "click", "button": "left"},
+    "swipe_left":  {"type": "tap",   "key": "a"},
+    "swipe_right": {"type": "tap",   "key": "d"}
+  },
+  "voice": {
+    "jump":   {"type": "tap",   "key": "space"},
+    "reload": {"type": "tap",   "key": "r"},
+    "use":    {"type": "tap",   "key": "e"},
+    "fire":   {"type": "click", "button": "left"},
+    "pause":  {"type": "tap",   "key": "esc"}
+  }
+}

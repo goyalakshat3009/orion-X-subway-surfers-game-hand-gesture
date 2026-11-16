@@ -1,0 +1,15 @@
+{
+  "name": "2D Platformer",
+  "confidence": 0.85,
+  "actions": {
+    "fist":        {"type": "hold",  "key": "right"},
+    "open_palm":   {"type": "hold",  "key": "left"},
+    "point":       {"type": "tap",   "key": "space"},
+    "swipe_left":  {"type": "tap",   "key": "z"},
+    "swipe_right": {"type": "tap",   "key": "x"}
+  },
+  "voice": {
+    "pause": {"type": "tap", "key": "esc"},
+    "start": {"type": "tap", "key": "enter"}
+  }
+}

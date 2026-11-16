@@ -1,0 +1,16 @@
+{
+  "name": "2048",
+  "confidence": 0.8,
+  "actions": {
+    "swipe_left":  {"type": "tap", "key": "left"},
+    "swipe_right": {"type": "tap", "key": "right"},
+    "point":       {"type": "tap", "key": "up"},
+    "fist":        {"type": "tap", "key": "down"}
+  },
+  "voice": {
+    "left":  {"type": "tap", "key": "left"},
+    "right": {"type": "tap", "key": "right"},
+    "up":    {"type": "tap", "key": "up"},
+    "down":  {"type": "tap", "key": "down"}
+  }
+}
